@@ -1,0 +1,48 @@
+#titulo2{ 
+background-color: black;
+  width: 1200px;
+  height: 50px;
+
+ }
+ #titulokp{ 
+  color: violet;
+background-color: blueviolet;
+  width: 1200px;
+  height: 50px;
+ }
+p{ color:black;  }
+
+
+
+ #h12{ 
+  background-color: violet;
+  width: 1200px;
+  height: 900px;
+  float: left;
+   }
+   #fin1{ 
+  background-color: blueviolet;
+  width: 600px;
+  height: 1200px;
+  float: right;
+   }
+  #fin2{ 
+  background-color: black;
+  width: 600px;
+  height: 1200px;
+  float: left;
+   }
+ 
+#footer { 
+  color: violet;
+  background-color: violet;
+  width: 1200px;
+  height: 200px;
+ 
+ }
+
+
+
+  
+ 
+ 

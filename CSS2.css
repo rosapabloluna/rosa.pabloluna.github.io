@@ -1,0 +1,58 @@
+#titulo{ 
+background-color: black;
+  width: 1200px;
+  height: 50px;
+ }
+p{ color:blueviolet;
+width: 1200px;
+  height: 5px;  }
+#kinn{ 
+background-color: violet;
+  width: 1200px;
+  height: 1400px;
+ }
+ #cap{ 
+background-color: black;
+  width: 550px;
+  height: 1245px;
+  float: left ;
+  text-align: 20px;
+ }
+ #tabla1{ 
+background-color: ;
+  width: 500px;
+  height: 200px;
+   color:white;
+   float:right ;
+
+ }
+ #letra{ 
+color:white ;
+  width: 500px;
+  height: 200px;
+   color:white;
+   float:right ;
+
+ }
+ #flecha{ 
+color:transparent ;
+  width: 500px;
+  height: 200px;
+   float:right ;
+ text-align: 20px;
+ }
+ 
+ #casa{ 
+color:transparent ;
+  width: 200px;
+  height: 100px;
+   float:right ;
+ text-align: 100px;
+ }
+ #hecho{ 
+  background-color: violet;
+  width: 1200px;
+  height: 50px;
+ float: right ;
+ }
+ 

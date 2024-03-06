@@ -1,0 +1,51 @@
+#CAP{ 
+background-color: black;
+  width: 1200px;
+  height: 150px;
+ }
+ #fcap{ color: white;
+  background-color: black;
+  width: 1200px;
+  height: 600px;
+   
+ text-align: 20px;
+ }
+ p{ color:blueviolet;
+width: 1200px;
+  height: 5px;  }
+
+  #tex{color: white;
+background-color: black;
+  width: 1200px;
+  height: 750px;
+ 
+   
+ }
+ #da{ 
+background-color: black;
+  width: 550px;
+  height: 1245px;
+  float: right;
+  text-align: 20px;
+ }
+#hecho{ 
+  background-color: violet;
+  width: 1200px;
+  height: 50px;
+ float: right ;
+ }
+ #flecha{ 
+color:transparent ;
+  width: 500px;
+  height: 200px;
+   float:right ;
+ text-align: 20px;
+ }
+ #dora{ 
+color:transparent ;
+  width: 500px;
+  height: 200px;
+   float:right ;
+ text-align: 20px;
+ }
+ 

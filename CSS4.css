@@ -1,0 +1,39 @@
+
+p{ color:blueviolet;
+width: 1200px;
+  height: 5px;  }
+
+
+ 
+ #h2{ 
+background-color: black;
+  width: 1200px;
+  height: 100px;
+ }
+ #h12{ 
+  background-color: violet;
+  width: 1200px;
+  height: 900px;
+   }
+
+#violeta{ 
+background-color: violet;
+  width: 600px;
+  height: 900px;
+  float: left;
+ }
+ #negro{ 
+background-color: blueviolet;
+  width: 600px;
+  height: 900px;
+  float: right;
+ }
+#hecho{ 
+  background-color: black;
+  width: 1200px;
+  height: 200px;
+ float: right ;
+ }
+
+ 
+ 
